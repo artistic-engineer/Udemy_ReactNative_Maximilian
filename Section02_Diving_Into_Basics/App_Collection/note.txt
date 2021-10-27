@@ -1,0 +1,3 @@
+flexDirection: contral row or column
+alignItems: cross axis
+alignSelf: can control specific child
