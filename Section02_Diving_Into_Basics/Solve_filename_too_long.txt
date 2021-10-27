@@ -1,0 +1,2 @@
+git rm --cached <foldername>
+git config --system core.longpaths true
